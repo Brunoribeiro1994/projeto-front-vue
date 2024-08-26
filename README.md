@@ -1,3 +1,6 @@
+Nome: Bruno Dessimoni Ribeiro
+RA: 8093458
+
 # PROJETO FRONT-END
 Esse projeto tem como intenção a avaliação do desenvolvimento e aprimoramento na linguagem Vue. O aluno deve desenvolver um projeto usando a tecnologia, usando uma api gratuita.
 A Api utilizada para esse projeto é a JSON Placeholder.
